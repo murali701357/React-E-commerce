@@ -29,6 +29,8 @@ function Product() {
 
         <button>Add To Cart</button>
 
+        <button>Add To Cart</button>
+        <button>Add To Cart</button>
       </div>
 
     </div>
